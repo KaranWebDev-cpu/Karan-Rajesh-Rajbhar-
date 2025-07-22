@@ -1,28 +1,3 @@
 body {
-  background-color: #146382;
+  background-color: blue;
 }
-button {
-  color: red;
-}
-.nine {
-  color: purple;
-}
-h1 {
-  font-weight: bold;
-  font-size: 20px;
-  text-align: center;
-  line-height: normal;
-  font-family: Arial;
-  border-width: 2px;
-  border-style: dotted;
-  border-color: black;
-}
-p {
-  text-transform: capitalize;
-  border-width: 200px;
-  
-}
-div {
-  height: 50px;
-}
-
